@@ -19,7 +19,8 @@ For mor info;
 ## Setup ROS
 
   
-You can install the system by following the steps in [this link]([http://wiki.ros.org/ROS/Installation](http://wiki.ros.org/ROS/Installation)).
+You can install the system by following the steps in this link;
+[http://wiki.ros.org/ROS/Installation](http://wiki.ros.org/ROS/Installation)
 
 # Circuit Diagram
 ![L298N Driver](https://i.hizliresim.com/4YOJf5.png)
